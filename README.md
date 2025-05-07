@@ -7,7 +7,7 @@ The process was very interesting, and we added the data detailed below. The most
 
 To create and modify it we used XCODE
 
- --System Versión--
+## --System Versión--
  
 ProductName: 
 

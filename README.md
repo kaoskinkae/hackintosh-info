@@ -1,5 +1,6 @@
 # hackintosh-info
 
-Vamos a crear un script para mostrar la información referente a nuestro equipo que se asemeja al usado por la aplicación "About This Hack" y a "neofetch" Para la creación de este script hemos usado ChatGPT y le hemos solicitado que no cree el script siguiendo los datos que le hemos solicitado.
 
-El proceso ha sido muy interesante y hemos añadido los datos que a continuación se van a detallar. Lo más complicado ha sido agregar el audio de nuestro equipo ya que es complejo averigura el chip porque en mac no aparece reflejado como ta
+Let's create a script to display information about our device, similar to the one used by the "About This Hack" app and "neofetch." To create this script, we used ChatGPT and asked it not to create the script following the requested data.
+
+The process was very interesting, and we added the data detailed below. The most complicated part was adding our device's audio, as it's difficult to determine the chip because it doesn't appear as such on a Mac.

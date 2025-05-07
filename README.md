@@ -16,21 +16,26 @@ ProductVersion:
 BuildVersion: 
 
 
+
  --Smbios--
  
 Version: 
+
 
  --Processor--
  
 Processor Model:
 
+
 --Phycical CPU--
  
 Physics:
 
+
 --CPU Logic--
  
 Logical:
+
 
 --VGA Decoder Checker--
  

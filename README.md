@@ -17,27 +17,27 @@ BuildVersion:
 
 
 
- --Smbios--
+## --Smbios--
  
 Version: 
 
 
- --Processor--
+## --Processor--
  
 Processor Model:
 
 
---Phycical CPU--
+## --Phycical CPU--
  
 Physics:
 
 
---CPU Logic--
+## --CPU Logic--
  
 Logical:
 
 
---VGA Decoder Checker--
+## --VGA Decoder Checker--
  
 Model: 
 
@@ -50,13 +50,13 @@ Resolution:
 Primary Display:
 
 
---Audio Codec-
+## --Audio Codec-
  
 Vendor ID:
 
 Device ID:
 
---Hardware Acceleration--
+## --Hardware Acceleration--
 
 Metal: 
 

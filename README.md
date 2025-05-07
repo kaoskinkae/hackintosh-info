@@ -1,5 +1,7 @@
 # hackintosh-info
 
+![Captura de pantalla 2025-05-07 a las 21 29 46](https://github.com/user-attachments/assets/59937b06-4392-41f6-ab17-77e886ea61df)
+
 
 Let's create a script to display information about our device, similar to the one used by the "About This Hack" app and "neofetch." To create this script, we used ChatGPT and asked it not to create the script following the requested data.
 

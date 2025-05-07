@@ -61,6 +61,8 @@ Device ID:
 Metal: 
 
 
+
+
 This first script can be added parameters that allow us to have detailed information about our team, even giving it color.
 
 Add this script as a base to be downloaded, you can modify it to your liking, it is free to be used but leave the Credits, which is what allows Hackintosh to remain alive.

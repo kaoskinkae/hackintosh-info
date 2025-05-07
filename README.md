@@ -8,34 +8,42 @@ The process was very interesting, and we added the data detailed below. The most
 To create and modify it we used XCODE
 
  --System Versión--
+ 
 ProductName: 
 ProductVersion:
 BuildVersion: 
 
  --Smbios--
+ 
 Version: 
 
  --Processor--
+ 
 Processor Model:
 
- --Phycical CPU--
+--Phycical CPU--
+ 
 Physics:
 
- --CPU Logic--
+--CPU Logic--
+ 
 Logical:
 
- --VGA Decoder Checker--
+--VGA Decoder Checker--
+ 
 Model: 
 VRAM: 
 Vendor: 
 Resolution: 
 Primary Display:
 
- --Audio Codec-
+--Audio Codec-
+ 
 Vendor ID:
 Device ID:
 
- --Hardware Acceleration--
+--Hardware Acceleration--
+
 Metal: 
 
 This first script can be added parameters that allow us to have detailed information about our team, even giving it color.

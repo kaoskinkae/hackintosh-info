@@ -9,56 +9,56 @@ To create and modify it we used XCODE
 
 ## --System Versión--
  
-ProductName: 
+_ProductName:_
 
-ProductVersion:
+_ProductVersion:_
 
-BuildVersion: 
+_BuildVersion:_
 
 
 
 ## --Smbios--
  
-Version: 
+_Version:_
 
 
 ## --Processor--
  
-Processor Model:
+_Processor Model:_
 
 
 ## --Phycical CPU--
  
-Physics:
+_Physics:_
 
 
 ## --CPU Logic--
  
-Logical:
+_Logical:_
 
 
 ## --VGA Decoder Checker--
  
-Model: 
+_Model:_
 
-VRAM: 
+_VRAM:_
 
-Vendor: 
+_Vendor:_
 
-Resolution: 
+_Resolution:_
 
-Primary Display:
+_Primary Display:_
 
 
 ## --Audio Codec-
  
-Vendor ID:
+_Vendor ID:_
 
-Device ID:
+_Device ID:_
 
 ## --Hardware Acceleration--
 
-Metal: 
+_Metal:_
 
 
 
